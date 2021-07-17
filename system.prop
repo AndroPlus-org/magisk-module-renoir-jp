@@ -3,3 +3,6 @@ persist.dbg.volte_avail_ovr=1
 persist.dbg.vt_avail_ovr=1
 persist.dbg.allow_ims_off=1
 persist.dbg.wfc_avail_ovr=1
+persist.sys.phh.ims.caf=true
+
+ro.build.fingerprint=Xiaomi/renoir_jp/renoir:11/RKQ1.201112.002/V12.5.2.0.RKIJPXM:user/release-keys
