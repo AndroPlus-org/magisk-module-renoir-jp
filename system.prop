@@ -13,3 +13,36 @@ persist.radio.volte.dan_support=true
 persist.radio.VT_ENABLE=1
 persist.sys.cust.lte_config=true
 persist.rcs.supported=1
+
+ro.build.description=renoir_jp-user 11 RKQ1.201112.002 V12.5.2.0.RKIJPXM release-keys
+ro.build.display.id=RKQ1.201112.002 test-keys
+ro.build.flavor=missi-user
+ro.build.product=renoir
+ro.product.brand=Xiaomi
+ro.product.build.fingerprint=Xiaomi/renoir_jp/renoir:11/RKQ1.201112.002/V12.5.2.0.RKIJPXM:user/test-keys
+ro.product.build.type=user
+ro.product.cert=M2101K9R
+ro.product.name=renoir_jp
+
+ro.com.google.clientidbase=android-xiaomi
+ro.com.google.clientidbase.ax=android-xiaomi-rvo3
+ro.com.google.clientidbase.ms=android-xiaomi-rvo3
+ro.com.google.clientidbase.tx=android-xiaomi-rvo3
+ro.com.google.clientidbase.vs=android-xiaomi-rvo3
+
+ro.product.product.brand=Xiaomi
+ro.product.product.device=renoir
+ro.product.product.manufacturer=Xiaomi
+ro.product.product.model=M2101K9R
+ro.product.product.name=renoir_jp
+ro.product.system.brand=qti
+ro.product.system.device=missi
+ro.product.system.manufacturer=QUALCOMM
+ro.product.system.model=missi system image for arm64
+ro.product.system.name=missi
+ro.product.system_ext.brand=qti
+ro.product.system_ext.device=missi
+ro.product.system_ext.manufacturer=QUALCOMM
+
+ro.system.build.type=user
+ro.system_ext.build.type=user
