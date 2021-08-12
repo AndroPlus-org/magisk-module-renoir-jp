@@ -23,6 +23,7 @@ ro.product.build.fingerprint=Xiaomi/renoir_jp/renoir:11/RKQ1.201112.002/V12.5.2.
 ro.product.build.type=user
 ro.product.cert=M2101K9R
 ro.product.name=renoir_jp
+ro.product.mod_device=renoir_jp_global
 
 ro.com.google.clientidbase=android-xiaomi
 ro.com.google.clientidbase.ax=android-xiaomi-rvo3
@@ -43,6 +44,9 @@ ro.product.system.name=missi
 ro.product.system_ext.brand=qti
 ro.product.system_ext.device=missi
 ro.product.system_ext.manufacturer=QUALCOMM
+ro.product.system_ext.model=missi system image for arm64
+ro.product.system_ext.name=missi
+ro.system_ext.build.fingerprint=qti/missi/missi:11/RKQ1.201112.002/V12.5.2.0.RKIJPXM:user/release-keys
 
 ro.system.build.type=user
 ro.system_ext.build.type=user
