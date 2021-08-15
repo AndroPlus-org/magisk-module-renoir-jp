@@ -14,6 +14,9 @@ persist.radio.VT_ENABLE=1
 persist.sys.cust.lte_config=true
 persist.rcs.supported=1
 
+debug.sf.enable_hwc_vds=1
+debug.hwui.renderer=skiavk
+
 ro.build.description=renoir_jp-user 11 RKQ1.201112.002 V12.5.2.0.RKIJPXM release-keys
 ro.build.display.id=RKQ1.201112.002 test-keys
 ro.build.flavor=missi-user
@@ -50,3 +53,5 @@ ro.system_ext.build.fingerprint=qti/missi/missi:11/RKQ1.201112.002/V12.5.2.0.RKI
 
 ro.system.build.type=user
 ro.system_ext.build.type=user
+
+ro.miui.build.region=jp
