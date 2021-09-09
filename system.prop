@@ -15,6 +15,7 @@ persist.sys.cust.lte_config=true
 persist.rcs.supported=1
 
 debug.sf.enable_hwc_vds=1
+debug.sf.latch_unsignaled=0
 
 ro.build.description=renoir_jp-user 11 RKQ1.201112.002 V12.5.2.0.RKIJPXM release-keys
 ro.build.display.id=RKQ1.201112.002 test-keys
